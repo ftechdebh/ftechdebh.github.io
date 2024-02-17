@@ -19,7 +19,7 @@ faqs.forEach(faq => {
         icon.className = "fa fa-plus";
     }
     })
-})
+}) 
 
 // show/hide nav menu
 
